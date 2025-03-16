@@ -20,7 +20,7 @@ jobs:
 
       # 3. Деплоїмо на GitHub Pages
       - name: Deploy 🚀
-        uses: github-pages-deploy-action/github-pages-deploy-action@4.1.0  # Правильне ім'я дії
+        uses: JamesIves/github-pages-deploy-action@4.1.0  # Правильне ім'я дії
         with:
           branch: main
           folder: main # Вказуємо папку для деплою
