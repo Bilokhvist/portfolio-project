@@ -22,5 +22,5 @@ jobs:
       - name: Deploy 🚀
         uses: github-pages-deploy-action/github-pages-deploy-action@4.1.0  # Правильне ім'я дії
         with:
-          branch: gh-pages
-          folder: portfolio  # Вказуємо папку для деплою
+          branch: main
+          folder: main # Вказуємо папку для деплою
