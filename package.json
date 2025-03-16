@@ -1,11 +1,11 @@
 {
-    "name": "parcel-project-template",
+    "name": "portfolio-project",
     "version": "2.0.0",
     "description": "",
-    "homepage": "https://github.com/Bilokhvist/portfolio-project.git",
+    "homepage": "https://github.com/Bilokhvist/portfolio-project",
     "scripts": {
       "start": "parcel src/*.html",
-      "build": "parcel build src/*.html --public-url /final-project-js/"
+      "build": "parcel build src/*.html --public-url /portfolio-project/"
     },
     "repository": {
       "type": "git",
@@ -15,7 +15,7 @@
     "author": "Alina Bilohvist <alinabilohvist@gmail.com>",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/Bilokhvist/portfolio-project.git"
+      "url": "https://github.com/Bilokhvist/portfolio-project/issues"
     },
     "dependencies": {
       "axios": "^1.4.0",
@@ -39,3 +39,4 @@
     },
     "browserslist": "> 0.5%, last 2 versions, not dead"
   }
+  
